@@ -1,0 +1,7 @@
+Documentação:
+
+Kafka Connect
+https://medium.com/jundevelopers/debezium-kafka-e-net-core-9cee3ca3e0db
+
+Debezium
+https://debezium.io/documentation/reference/1.8/index.html
